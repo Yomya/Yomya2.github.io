@@ -1,0 +1,2 @@
+# Yomya.github.io
+hexo
